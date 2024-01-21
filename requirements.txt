@@ -78,7 +78,7 @@ jupyter==1.0.0
 jupyter-client==5.3.3
 jupyter-console==6.0.0
 jupyter-core==4.5.0
-jupyterlab==1.1.4
+jupyterlab==3.6.7
 jupyterlab-server==1.0.6
 keyring==18.0.0
 kiwisolver==1.1.0
@@ -124,7 +124,7 @@ patsy==0.5.1
 pep8==1.7.1
 pexpect==4.7.0
 pickleshare==0.7.5
-Pillow==6.2.0
+Pillow==10.2.0
 pkginfo==1.5.0.1
 pluggy==0.13.0
 ply==3.11
