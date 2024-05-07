@@ -70,7 +70,7 @@ isort==4.3.21
 itsdangerous==1.1.0
 jdcal==1.4.1
 jedi==0.15.1
-Jinja2==2.10.3
+Jinja2==3.1.4
 joblib==0.13.2
 json5==0.8.5
 jsonschema==3.0.2
@@ -201,7 +201,7 @@ unicodecsv==0.14.1
 urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.16.0
+Werkzeug==3.0.3
 widgetsnbextension==3.5.1
 wrapt==1.11.2
 wurlitzer==1.0.3
